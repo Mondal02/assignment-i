@@ -130,7 +130,7 @@ src/
 ## Repository
 
 A public GitHub repo mirrors this Snack codebase:
-[GitHub Repository Link](<PASTE-YOUR-GITHUB-URL-HERE>)
+[GitHub Repository Link](https://github.com/Mondal02/assignment-i)
 
 ---
 
